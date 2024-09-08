@@ -1,0 +1,1 @@
+{"uuid":"792f004c-bea4-45a4-aa63-d66568612a94","name":"spyne.test.HomePageTest.setUp","children":["bcd1bbe2-9e20-418c-a0a3-1cba8e876f78"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725612762162,"stop":1725612767049}],"afters":[],"start":1725612762162,"stop":1725612767049}
